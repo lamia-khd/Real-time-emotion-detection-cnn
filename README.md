@@ -5,6 +5,7 @@ The model detects emotions such as happy, sad, angry, surprised, neutral, and mo
 It combines OpenCV for face detection and a deep learning CNN for emotion classification.
 
 📥 Installation
+
 Clone the project:
 ```bash
 git clone https://github.com/lamia-khd/Real-time-emotion-detection-cnn
